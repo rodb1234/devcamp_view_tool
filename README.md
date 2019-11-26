@@ -16,7 +16,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+@copyright = ViewTool::Renderer.copyright('Rodrigo Castro', 'Todos direitos reservados')
 
 ## Development
 
